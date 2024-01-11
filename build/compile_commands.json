@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/Channel.o -c /home/acs/mymuduo/Channel.cc",
+  "file": "/home/acs/mymuduo/Channel.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/DefaultPoller.o -c /home/acs/mymuduo/DefaultPoller.cc",
+  "file": "/home/acs/mymuduo/DefaultPoller.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/EpollPoller.o -c /home/acs/mymuduo/EpollPoller.cc",
+  "file": "/home/acs/mymuduo/EpollPoller.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoop.o -c /home/acs/mymuduo/EventLoop.cc",
+  "file": "/home/acs/mymuduo/EventLoop.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/InetAddress.o -c /home/acs/mymuduo/InetAddress.cc",
+  "file": "/home/acs/mymuduo/InetAddress.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/Logger.o -c /home/acs/mymuduo/Logger.cc",
+  "file": "/home/acs/mymuduo/Logger.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/Poller.o -c /home/acs/mymuduo/Poller.cc",
+  "file": "/home/acs/mymuduo/Poller.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpServer.o -c /home/acs/mymuduo/TcpServer.cc",
+  "file": "/home/acs/mymuduo/TcpServer.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/Timestamp.o -c /home/acs/mymuduo/Timestamp.cc",
+  "file": "/home/acs/mymuduo/Timestamp.cc"
+}
+]
