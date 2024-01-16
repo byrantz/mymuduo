@@ -1,8 +1,28 @@
 [
 {
   "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/Acceptor.o -c /home/acs/mymuduo/Acceptor.cc",
+  "file": "/home/acs/mymuduo/Acceptor.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/Buffer.o -c /home/acs/mymuduo/Buffer.cc",
+  "file": "/home/acs/mymuduo/Buffer.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/Callbacks.o -c /home/acs/mymuduo/Callbacks.cc",
+  "file": "/home/acs/mymuduo/Callbacks.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
   "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/Channel.o -c /home/acs/mymuduo/Channel.cc",
   "file": "/home/acs/mymuduo/Channel.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/CurrentThread.o -c /home/acs/mymuduo/CurrentThread.cc",
+  "file": "/home/acs/mymuduo/CurrentThread.cc"
 },
 {
   "directory": "/home/acs/mymuduo/build",
@@ -21,6 +41,16 @@
 },
 {
   "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThread.o -c /home/acs/mymuduo/EventLoopThread.cc",
+  "file": "/home/acs/mymuduo/EventLoopThread.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.o -c /home/acs/mymuduo/EventLoopThreadPool.cc",
+  "file": "/home/acs/mymuduo/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
   "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/InetAddress.o -c /home/acs/mymuduo/InetAddress.cc",
   "file": "/home/acs/mymuduo/InetAddress.cc"
 },
@@ -36,8 +66,23 @@
 },
 {
   "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/Socket.o -c /home/acs/mymuduo/Socket.cc",
+  "file": "/home/acs/mymuduo/Socket.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpConnection.o -c /home/acs/mymuduo/TcpConnection.cc",
+  "file": "/home/acs/mymuduo/TcpConnection.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
   "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpServer.o -c /home/acs/mymuduo/TcpServer.cc",
   "file": "/home/acs/mymuduo/TcpServer.cc"
+},
+{
+  "directory": "/home/acs/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC  -g -fPIC   -o CMakeFiles/mymuduo.dir/Thread.o -c /home/acs/mymuduo/Thread.cc",
+  "file": "/home/acs/mymuduo/Thread.cc"
 },
 {
   "directory": "/home/acs/mymuduo/build",
